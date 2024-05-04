@@ -5,7 +5,7 @@ Project Structure
 This directory is organized with each subfolder representing an individual project. Each project folder will ideally contain the following:
 
 README.md: (This file) Provides a brief description of the project, including its purpose, methodology, and any relevant details.
-Source Code: The core Python code files implementing the project's functionalities.
+Source Code(file name): The core Python code files implementing the project's functionalities.
 Data: (Optional) If the project uses a specific dataset, it might be included within the folder or instructions on acquiring it might be provided.
 Documentation: (Optional) Additional documentation like reports, presentations, or visualizations related to the project can be included.
 requirements.txt: (Optional) This file lists the Python libraries required to run the project, facilitating easy setup for others.
