@@ -1,4 +1,4 @@
-Absolutely! Here's the refined readme with Dr. Milaan Parmar replaced with Ayush1974:
+
 
 # Cervical_Cancer_Prediction_with_ML
 
